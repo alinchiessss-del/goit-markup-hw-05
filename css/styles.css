@@ -623,7 +623,7 @@ a {
 }
 
 .modal-field {
-    margin-bottom: 24px;
+    margin-bottom: 8px;
     padding: 0;
 }
 
@@ -738,7 +738,6 @@ a {
     align-items: center;
     justify-content: center;
     fill: transparent;
-    margin-right: 8px;
 }
 
 .modal-submit-btn {
