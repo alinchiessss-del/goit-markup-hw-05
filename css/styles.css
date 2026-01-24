@@ -654,7 +654,7 @@ a {
 .modal-label {
     display: block;
     font-size: 12px;
-    line-height: 1.7;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
     margin-bottom: 4px;
@@ -694,7 +694,8 @@ a {
     color: #8e8f99;
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 8px;
+    margin-bottom: 24px;
 }
 
 .modal a {
@@ -724,7 +725,7 @@ a {
 }
 
 .modal-check:checked+.modal-check-label .span-modal-check {
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     border: none;
 }
 
